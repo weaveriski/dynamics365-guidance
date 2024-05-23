@@ -89,7 +89,7 @@ Before you can import the project into Azure Boards, there are a few things that
 
            This is a custom field with values provided in the template.
 
-5. Add custom fields as required. The template includes four custom fields. Use the following guidance to create the fields. Alternatively, delete the columns from the template. Learn more at [Add and manage fields](/azure/devops/organizations/settings/work/customize-process-field?view=azure-devops&preserve-view=true).
+5. Add custom fields as required. The template includes eight custom fields. Use the following guidance to create the fields. Alternatively, delete the columns from the template. Learn more at [Add and manage fields](/azure/devops/organizations/settings/work/customize-process-field?view=azure-devops&preserve-view=true).
 
     - **Business owner**: Add this field as an **Identity** field, so that you can select a user or person in the identity picker. We recommend you add owners to all your work items types. Learn more at [Add an Identity field](/azure/devops/organizations/settings/work/customize-process-field?view=azure-devops&preserve-view=true#add-an-identity-field).
     - **Business process lead**: Add this field as an **Identity** field, so that you can select a user or person in the identity picker. We recommend you add owners to all your work items types. Learn more at [Add an Identity field](/azure/devops/organizations/settings/work/customize-process-field?view=azure-devops&preserve-view=true#add-an-identity-field).
